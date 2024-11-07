@@ -24,7 +24,8 @@ SOLUTION:
 
 BLOCK DIAGRAM:
 
-![image](https://github.com/user-attachments/assets/a5ac5fe4-f12f-44b1-b64a-829ca9d8ca3f)
+![image](https://github.com/user-attachments/assets/82ff76df-8973-49fe-9b41-1d3e09f7f71b)
+
 
 
 FLOW CHART:
